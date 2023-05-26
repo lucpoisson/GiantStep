@@ -21,6 +21,6 @@ The notebooks are self-explanatory.
  
 ## References
 
-[1]*Learning Two-Layer Neural Networks, One (Giant) Step at a Time*, Yatin Dandi, Florent Krzakala, Bruno Loureiro, Luca Pesce, Ludovic Stephan [arXiv: xxxx.xxxx](https://arxiv.org/abs/xxxx.xxxx)[Stat.ML]
+[1] *Learning Two-Layer Neural Networks, One (Giant) Step at a Time*, Yatin Dandi, Florent Krzakala, Bruno Loureiro, Luca Pesce, Ludovic Stephan [arXiv: xxxx.xxxx](https://arxiv.org/abs/xxxx.xxxx)[Stat.ML]
 
 
