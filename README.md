@@ -4,8 +4,7 @@ Repository for the paper [*Learning Two-Layer Neural Networks, One (Giant) Step 
 
 <p float="left">
   <img src="https://github.com/lucpoisson/OneStepAtATime/blob/main/figures/stairway.png" height="470" />
-</p>
-. 
+</p> 
 
 ## Structure
 
