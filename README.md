@@ -3,9 +3,8 @@
 Repository for the paper [*Learning Two-Layer Neural Networks, One (Giant) Step at a Time*](https://arxiv.org/abs/xxxx.xxxx). 
 
 <p float="left">
-  <img src="https://github.com/lucpoisson/OneStepAtATime/blob/main/figures/stairway.png" height="470" />
+  <img src="https://github.com/lucpoisson/OneStepAtATime/tree/main/figures/stairway.png" height="470" />
 </p> 
-
 ## Structure
 
 In this repository we provide the code and some guided example to help the reader to reproduce the figures of the paper [1]. The repository is structured as follows:
