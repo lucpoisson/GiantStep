@@ -3,7 +3,7 @@
 Repository for the paper [*Learning Two-Layer Neural Networks, One (Giant) Step at a Time*](https://arxiv.org/abs/xxxx.xxxx). 
 
 <p float="left">
-  <img src="https://github.com/lucpoisson/OneStepAtATime/blob/main/figures/xxxx.png" height="470" />
+  <img src="https://github.com/lucpoisson/OneStepAtATime/blob/main/figures/stairway.png" height="470" />
 </p>
 . 
 
