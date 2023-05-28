@@ -1,4 +1,5 @@
-# GiantStep
+# GiantStep(s) ![image](https://github.com/lucpoisson/GiantStep/assets/1806054/4917e79d-cbe3-45b3-a639-59638688fe61)
+
 
 Repository for the paper [*Learning Two-Layer Neural Networks, One (Giant) Step at a Time*](https://arxiv.org/abs/xxxx.xxxx). 
 
