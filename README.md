@@ -8,8 +8,8 @@ Repository for the paper [*Learning Two-Layer Neural Networks, One (Giant) Step 
 </p>
 
 ## Structure
-
-In this repository we provide the code and some guided example to help the reader to reproduce the figures of the paper [1]. The repository is structured as follows:
+The repository will be updated with clean code and explanations in the shortest delay. 
+The repository is structured as follows:
 
 | File                          | Description                                                                                                                                                    |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -18,9 +18,4 @@ In this repository we provide the code and some guided example to help the reade
 
 
 The notebooks are self-explanatory.
- 
-## References
-
-[1] *Learning Two-Layer Neural Networks, One (Giant) Step at a Time*, Yatin Dandi, Florent Krzakala, Bruno Loureiro, Luca Pesce, Ludovic Stephan [arXiv: 2305.18270](https://arxiv.org/abs/2305.18270)[Stat.ML]
-
 
