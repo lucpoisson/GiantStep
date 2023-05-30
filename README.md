@@ -1,4 +1,4 @@
-# GiantStep(s) 
+# GiantStep(s) --- Under construction ---
 
 Repository for the paper [*Learning Two-Layer Neural Networks, One (Giant) Step at a Time*](https://arxiv.org/abs/2305.18270) by Yatin Dandi, Florent Krzakala, Bruno Loureiro, Luca Pesce and Ludovic Stephan.
 
