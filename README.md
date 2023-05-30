@@ -18,5 +18,4 @@ The repository will be structured as follows:
 | /multiple_step|  Notebooks discussing results after few steps of GD.                  |
 
 
-The notebooks are self-explanatory.
 
