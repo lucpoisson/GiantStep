@@ -1,5 +1,4 @@
-# GiantStep(s) --- Under construction ---
-
+# GiantStep(s) 
 Repository for the paper [*Learning Two-Layer Neural Networks, One (Giant) Step at a Time*](https://arxiv.org/abs/2305.18270) by Yatin Dandi, Florent Krzakala, Bruno Loureiro, Luca Pesce and Ludovic Stephan.
 
 
@@ -7,7 +6,7 @@ Repository for the paper [*Learning Two-Layer Neural Networks, One (Giant) Step 
   <img src="https://github.com/lucpoisson/OneStepAtATime/blob/main/figures/stairway.png" height="470" />
 </p>
 
-## Structure
+## Structure --- Under construction ---
 The repository will be updated with clean code and explanations in the shortest delay. 
 
 
