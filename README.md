@@ -7,9 +7,6 @@ Repository for the paper [*Learning Two-Layer Neural Networks, One (Giant) Step 
 </p>
 
 ## Structure 
-The repository will be updated with more codes and explanations in the shortest delay. 
-
-
 The repository is structured as follows:
 
 | File                          | Description                                                                                                                                                    |
@@ -17,5 +14,8 @@ The repository is structured as follows:
 |/single_step| Notebooks discussing results after one step of GD.           |
 | /multiple_step|  Notebooks discussing results after few steps of GD.                  |
 
+
+
+The repository will be updated with more codes and explanations in the shortest delay. 
 
 
