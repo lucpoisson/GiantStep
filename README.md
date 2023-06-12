@@ -6,11 +6,11 @@ Repository for the paper [*Learning Two-Layer Neural Networks, One (Giant) Step 
   <img src="https://github.com/lucpoisson/OneStepAtATime/blob/main/figures/stairway.png" height="470" />
 </p>
 
-## Structure --- Under construction ---
-The repository will be updated with clean code and explanations in the shortest delay. 
+## Structure 
+The repository will be updated with more codes and explanations in the shortest delay. 
 
 
-The repository will be structured as follows:
+The repository is structured as follows:
 
 | File                          | Description                                                                                                                                                    |
 |-------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|
